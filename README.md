@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**tastane/tastane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### What am I doing here?:
 
 - 🔭 I’m currently working on several project related to Health Care 
 - 🌱 I’m currently learning DataAnalysis, mySQL, Tableau, PowerBI, 
