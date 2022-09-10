@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/tastane/tastane/blob/main/data-analysis-icons_1284-3861.jpg" height="300" widht="500" />
+
 ### What am I doing here?:
 
 - 🔭 I’m currently working on several project related to Health Care 
